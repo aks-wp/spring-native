@@ -1,4 +1,4 @@
-package com.example.demo.domain;
+package com.example.dependency.domain;
 
 public class Person {
 	private String name;
