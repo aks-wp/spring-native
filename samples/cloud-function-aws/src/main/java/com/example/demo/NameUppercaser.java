@@ -4,7 +4,7 @@ import java.util.function.Function;
 
 import org.springframework.stereotype.Component;
 
-import com.example.demo.domain.Person;
+import com.example.dependency.domain.Person;
 
 @Component
 public class NameUppercaser implements Function<Person, String> {
